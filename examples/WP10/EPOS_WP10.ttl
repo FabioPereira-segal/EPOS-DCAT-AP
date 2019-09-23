@@ -445,9 +445,9 @@
  	];
 	schema:logo "http://www.ftf.bfkh.gov.hu/portal/images/kepek/logo/fm_logo_en.png"^^xsd:anyURI ;
 	schema:url "http://www.ftf.bfkh.gov.hu/portal_en/"^^xsd:anyURI  ;
- 	schema:contactPoint <http://orcid.org/0000-0002-9733-284X/legalContact>;
- 	schema:contactPoint <http://orcid.org/0000-0002-9733-284X/scientificContact>;
- 	schema:contactPoint <http://orcid.org/0000-0002-9733-284X/financialContact>;
+ 	schema:contactPoint <https://orcid.org/0000-0003-2714-6555/legalContact>;
+ 	schema:contactPoint <https://orcid.org/0000-0003-2714-6555/scientificContact>;
+ 	schema:contactPoint <https://orcid.org/0000-0003-2714-6555/financialContact>;
 .
 
 #INGV
@@ -465,9 +465,9 @@
  	];
 	schema:logo "http://www.ingv.it/templates/g5_helium/custom/images/INGV_logo_colore_bianca.png"^^xsd:anyURI ;
 	schema:url "http://www.ingv.it/en"^^xsd:anyURI  ;
- 	schema:contactPoint <http://orcid.org/0000-0002-9733-284X/legalContact>;
- 	schema:contactPoint <http://orcid.org/0000-0002-9733-284X/scientificContact>;
- 	schema:contactPoint <http://orcid.org/0000-0002-9733-284X/financialContact>;
+ 	schema:contactPoint <https://orcid.org/0000-0002-0444-6240/legalContact>;
+ 	schema:contactPoint <https://orcid.org/0000-0002-0444-6240/scientificContact>;
+ 	schema:contactPoint <https://orcid.org/0000-0002-0444-6240/financialContact>;
 .
 
 #ROB-EUREF
@@ -485,9 +485,9 @@
  	];
 	schema:logo "https://www.astro.oma.be/wp-content/themes/porto-child/assets/img/logoEN.png"^^xsd:anyURI ;
 	schema:url "https://www.astro.oma.be/en/"^^xsd:anyURI  ;
- 	schema:contactPoint <http://orcid.org/0000-0002-9733-284X/legalContact>;
- 	schema:contactPoint <http://orcid.org/0000-0002-9733-284X/scientificContact>;
- 	schema:contactPoint <http://orcid.org/0000-0002-9733-284X/financialContact>;
+ 	schema:contactPoint <https://orcid.org/0000-0001-6492-3945/legalContact>;
+ 	schema:contactPoint <https://orcid.org/0000-0001-6492-3945/scientificContact>;
+ 	schema:contactPoint <https://orcid.org/0000-0001-6492-3945/financialContact>;
 .
 
 #UGA-CNRS
@@ -505,9 +505,9 @@
  	];
 	schema:logo "https://www.isterre.fr/squelettes/images/logo-bandeau-isterre-ks.png"^^xsd:anyURI ;
 	schema:url "https://www.isterre.fr/?lang=en"^^xsd:anyURI  ;
- 	schema:contactPoint <http://orcid.org/0000-0002-9733-284X/legalContact>;
- 	schema:contactPoint <http://orcid.org/0000-0002-9733-284X/scientificContact>;
- 	schema:contactPoint <http://orcid.org/0000-0002-9733-284X/financialContact>;
+ 	schema:contactPoint <https://orcid.org/0000-0002-9208-7136/legalContact>;
+ 	schema:contactPoint <https://orcid.org/0000-0002-9208-7136/scientificContact>;
+ 	schema:contactPoint <https://orcid.org/0000-0002-9208-7136/financialContact>;
 .
 
 #WUT-EUREF
@@ -525,9 +525,9 @@
  	];
 	schema:logo "https://www.pw.edu.pl/design/pw/images/GodloPolski_34.png"^^xsd:anyURI ;
 	schema:url "https://www.pw.edu.pl/engpw"^^xsd:anyURI  ;
- 	schema:contactPoint <http://orcid.org/0000-0002-9733-284X/legalContact>;
- 	schema:contactPoint <http://orcid.org/0000-0002-9733-284X/scientificContact>;
- 	schema:contactPoint <http://orcid.org/0000-0002-9733-284X/financialContact>;
+ 	schema:contactPoint <https://orcid.org/0000-0002-3989-4625/legalContact>;
+ 	schema:contactPoint <https://orcid.org/0000-0002-3989-4625/scientificContact>;
+ 	schema:contactPoint <https://orcid.org/0000-0002-3989-4625/financialContact>;
 .
 
 #LM
@@ -545,9 +545,9 @@
  	];
 	schema:logo "https://www.lantmateriet.se/wwwroot/lmse/images/LM-logotyp.svg"^^xsd:anyURI ;
 	schema:url "https://www.lantmateriet.se/"^^xsd:anyURI  ;
- 	schema:contactPoint <http://orcid.org/0000-0002-9733-284X/legalContact>;
- 	schema:contactPoint <http://orcid.org/0000-0002-9733-284X/scientificContact>;
- 	schema:contactPoint <http://orcid.org/0000-0002-9733-284X/financialContact>;
+ 	#schema:contactPoint <http://orcid.org/0000-0002-9733-284X/legalContact>;
+ 	#schema:contactPoint <http://orcid.org/0000-0002-9733-284X/scientificContact>;
+ 	#schema:contactPoint <http://orcid.org/0000-0002-9733-284X/financialContact>;
 .
 
 #SGO
@@ -565,9 +565,9 @@
  	];
 	schema:logo "https://www.lantmateriet.se/wwwroot/lmse/images/LM-logotyp.svg"^^xsd:anyURI ;
 	schema:url "http://www.sgo-penc.hu/index_eng.php"^^xsd:anyURI  ;
- 	schema:contactPoint <http://orcid.org/0000-0002-9733-284X/legalContact>;
- 	schema:contactPoint <http://orcid.org/0000-0002-9733-284X/scientificContact>;
- 	schema:contactPoint <http://orcid.org/0000-0002-9733-284X/financialContact>;
+ 	schema:contactPoint <https://orcid.org/0000-0003-2714-6555/legalContact>;
+ 	schema:contactPoint <https://orcid.org/0000-0003-2714-6555/scientificContact>;
+ 	schema:contactPoint <https://orcid.org/0000-0003-2714-6555/financialContact>;
 .
 
 #OCA
@@ -588,6 +588,26 @@
  	schema:contactPoint <http://orcid.org/0000-0002-9733-284X/legalContact>;
  	schema:contactPoint <ResearcherID:A-5326-2010/scientificContact>;
  	schema:contactPoint <http://orcid.org/0000-0002-9733-284X/financialContact>;
+.
+
+#BKG
+<PIC:991782031> a schema:Organization;
+	schema:identifier [ a schema:PropertyValue;
+		schema:propertyID  "PIC";
+		schema:value   "991782031";
+	];
+	schema:legalName "Federal Agency for Cartography and Geodesy";
+	schema:address [ a schema:PostalAddress;
+		schema:streetAddress "Richard-Strauss-Allee 11";
+		schema:addressLocality "Frankfurt";
+		schema:postalCode "60598";
+		schema:addressCountry "Germany";
+ 	];
+	schema:logo "https://www.bkg.bund.de/SiteGlobals/Frontend/Images/logo-en.svg?__blob=normal&v=7"^^xsd:anyURI ;
+	schema:url "https://www.bkg.bund.de/EN/Home/home.html"^^xsd:anyURI  ;
+ 	# schema:contactPoint <http://orcid.org/0000-0002-9733-284X/legalContact>;
+ 	# schema:contactPoint <ResearcherID:A-5326-2010/scientificContact>;
+ 	# schema:contactPoint <http://orcid.org/0000-0002-9733-284X/financialContact>;
 .
 
 <epos:Geodesy> a skos:ConceptScheme;
@@ -1598,31 +1618,40 @@
 		adms:identifier [ a adms:Identifier ;
             adms:schemaAgency "DDSS-ID" ;
             skos:notation "WP10-DDSS-008" ;
-        ];adms:identifier [ a adms:Identifier ;
+        ];
+		adms:identifier [ a adms:Identifier ;
             adms:schemaAgency "DDSS-ID" ;
             skos:notation "WP10-DDSS-009" ;
-        ];adms:identifier [ a adms:Identifier ;
+        ];
+		adms:identifier [ a adms:Identifier ;
             adms:schemaAgency "DDSS-ID" ;
             skos:notation "WP10-DDSS-010" ;
-        ];adms:identifier [ a adms:Identifier ;
+        ];
+		adms:identifier [ a adms:Identifier ;
             adms:schemaAgency "DDSS-ID" ;
             skos:notation "WP10-DDSS-011" ;
-        ];adms:identifier [ a adms:Identifier ;
+        ];
+		adms:identifier [ a adms:Identifier ;
             adms:schemaAgency "DDSS-ID" ;
             skos:notation "WP10-DDSS-012" ;
-        ];adms:identifier [ a adms:Identifier ;
+        ];
+		adms:identifier [ a adms:Identifier ;
             adms:schemaAgency "DDSS-ID" ;
             skos:notation "WP10-DDSS-013" ;
-        ];adms:identifier [ a adms:Identifier ;
+        ];
+		adms:identifier [ a adms:Identifier ;
             adms:schemaAgency "DDSS-ID" ;
             skos:notation "WP10-DDSS-014" ;
-        ];adms:identifier [ a adms:Identifier ;
+        ];
+		adms:identifier [ a adms:Identifier ;
             adms:schemaAgency "DDSS-ID" ;
             skos:notation "WP10-DDSS-015" ;
-        ];adms:identifier [ a adms:Identifier ;
+        ];
+		adms:identifier [ a adms:Identifier ;
             adms:schemaAgency "DDSS-ID" ;
             skos:notation "WP10-DDSS-016" ;
-        ];adms:identifier [ a adms:Identifier ;
+        ];
+		adms:identifier [ a adms:Identifier ;
             adms:schemaAgency "DDSS-ID" ;
             skos:notation "WP10-DDSS-017" ;
         ];
@@ -1649,7 +1678,7 @@
 
         dcat:keyword "GNSS GEOJSON";
 
-		    # Rui
+		# Rui
         dcat:contactPoint <http://orcid.org/0000-0002-9733-284X/contactPoint> ;
 
         # This property refers to an Organisation responsible for making the Dataset available.
@@ -1746,8 +1775,11 @@
 
         dcat:keyword "GNSS RINEX";
 
-		    # Rui
-        dcat:contactPoint <http://orcid.org/0000-0002-9733-284X/contactPoint> ;
+		#Carine
+        dcat:contactPoint <https://orcid.org/0000-0001-6492-3945/contactPoint> ;
+
+		#ROB
+		dct:publisher <PIC:996437257>;
 
         # This property refers to an Organisation responsible for making the Dataset available.
     		# Data portal France
@@ -1843,12 +1875,11 @@
         dcat:theme  <epos:GNSSProductsPortal> ;
 
         dcat:keyword "GNSS rinex Metadata";
-		# Rui
-        dcat:contactPoint <http://orcid.org/0000-0002-9733-284X/contactPoint> ;
+		#Carine
+        dcat:contactPoint <https://orcid.org/0000-0001-6492-3945/contactPoint>;
 
-        # This property refers to an Organisation responsible for making the Dataset available.
-		# Data portal France
-		dct:publisher <PIC:991782030> ;
+		#ROB
+		dct:publisher <PIC:996437257>;
 
         # This property links the Dataset to an available Distribution.
         dcat:distribution <GlassFramework/webresources/files/Distribution/001> ;
@@ -1939,12 +1970,11 @@
         dcat:theme  <epos:GNSSProductsPortal> ;
 
         dcat:keyword "GNSS GEOJSON";
-		# Rui
-        dcat:contactPoint <http://orcid.org/0000-0002-9733-284X/contactPoint> ;
+		#Carine
+        dcat:contactPoint <https://orcid.org/0000-0001-6492-3945/contactPoint> ;
 
-        # This property refers to an Organisation responsible for making the Dataset available.
-		# Data portal France
-		dct:publisher <PIC:991782030> ;
+		#ROB
+		dct:publisher <PIC:996437257>;
 
         # This property links the Dataset to an available Distribution.
         dcat:distribution <GlassFramework/webresources/stations/v2/station/geojson/Distribution/001> ;
@@ -2036,12 +2066,12 @@
         dcat:theme  <epos:GNSSProductsPortal> ;
 
         dcat:keyword "GNSS coordinates position PPP";
-		# MAthilde
-        dcat:contactPoint <ResearcherID:A-5326-2010/scientificContact> ;
+		# Nicola d'Agostino
+        dcat:contactPoint <https://orcid.org/0000-0002-0444-6240/contactPoint> ;
 
         # This property refers to an Organisation responsible for making the Dataset available.
-		# product portal UBI
-		dct:publisher <PIC:996437254> ;
+		# INGV
+		dct:publisher <PIC:996437256> ;
 
         # This property links the Dataset to an available Distribution.
         dcat:distribution <GlassFramework/webresources/products/coordinates/PPP/Distribution/001> ;
@@ -2133,12 +2163,12 @@
 	dcat:theme  <epos:GNSSProductsPortal> ;
 
 	dcat:keyword "GNSS coordinates position";
-	# Mathilde
-	dcat:contactPoint <ResearcherID:A-5326-2010/scientificContact> ;
+	# Anne Socquet
+	dcat:contactPoint <https://orcid.org/0000-0002-9208-7136/contactPoint> ;
 
 	# This property refers to an Organisation responsible for making the Dataset available.
-	# product portal UBI
-	dct:publisher <PIC:996437254> ;
+	# UGA-CNRS
+	dct:publisher <PIC:996437258> ;
 
 	# This property links the Dataset to an available Distribution.
 	dcat:distribution <GlassFramework/webresources/products/coordinates/DD/Distribution/001> ;
@@ -2209,62 +2239,61 @@
 	dct:identifier "GlassFramework/webresources/products/timeseries/PPP" ;
         dct:title "Get position timeseries via PPP processing" ;
 	dct:description "Get Stations timeseries via PPP processing";
+	adms:identifier [ a adms:Identifier ;
+		adms:schemaAgency "DDSS-ID" ;
+		skos:notation "WP10-DDSS-009" ;
+	];
 
-         adms:identifier [ a adms:Identifier ;
-             adms:schemaAgency "DDSS-ID" ;
-             skos:notation "WP10-DDSS-009" ;
-         ];
+	dct:created "2016-01-01T00:00:00Z"^^xsd:dateTime ;
+	dct:issued "2016-01-01T00:00:00Z"^^xsd:dateTime ;
+	dct:modified "2016-01-01T00:00:00Z"^^xsd:dateTime ;
+	owl:versionInfo "1.0.0" ;
 
-        dct:created "2016-01-01T00:00:00Z"^^xsd:dateTime ;
-        dct:issued "2016-01-01T00:00:00Z"^^xsd:dateTime ;
-        dct:modified "2016-01-01T00:00:00Z"^^xsd:dateTime ;
-        owl:versionInfo "1.0.0" ;
+	# This property refers to the type of the Dataset.
+	# Example of frequency using a controlled vocabulary http://dublincore.org/2012/06/14/dctype
+	dct:type "http://purl.org/dc/dcmitype/Service"^^xsd:anyURI ;
 
-        # This property refers to the type of the Dataset.
-        # Example of frequency using a controlled vocabulary http://dublincore.org/2012/06/14/dctype
-		dct:type "http://purl.org/dc/dcmitype/Service"^^xsd:anyURI ;
+	# This property refers to the frequency at which the Dataset is updated.
+	# The possible types are here: http://purl.org/cld/freq/
+	dct:accrualPeriodicity "http://purl.org/cld/freq/continuous"^^xsd:anyURI ;
 
-        # This property refers to the frequency at which the Dataset is updated.
-        # The possible types are here: http://purl.org/cld/freq/
-        dct:accrualPeriodicity "http://purl.org/cld/freq/continuous"^^xsd:anyURI ;
+	# This property refers to a category of the Dataset. A Dataset may be associated with multiple themes.
+	dcat:theme  <epos:GNSSProductsPortal> ;
 
-        # This property refers to a category of the Dataset. A Dataset may be associated with multiple themes.
-        dcat:theme  <epos:GNSSProductsPortal> ;
+	dcat:keyword "GNSS position timeseries";
+	# Nicola d'Agostino
+	dcat:contactPoint <https://orcid.org/0000-0002-0444-6240/contactPoint> ;
 
-        dcat:keyword "GNSS position timeseries";
-		# Mathilde
-        dcat:contactPoint <ResearcherID:A-5326-2010/scientificContact> ;
+	# This property refers to an Organisation responsible for making the Dataset available.
+	# INGV
+	dct:publisher <PIC:996437256> ;
 
-        # This property refers to an Organisation responsible for making the Dataset available.
-		# product portal UBI
-		dct:publisher <PIC:996437254> ;
+	# This property links the Dataset to an available Distribution.
+	dcat:distribution <GlassFramework/webresources/products/timeseries/PPP/Distribution/001> ;
 
-        # This property links the Dataset to an available Distribution.
-        dcat:distribution <GlassFramework/webresources/products/timeseries/PPP/Distribution/001> ;
-
-        # This property refers to a geographic region that is covered by the Dataset.
-        dct:spatial [ a dct:Location ;
-			locn:geometry "POLYGON((40.429 81.201, -72.773 79.687, -75.234 76.100, -40.429 43.068, -18.632 18.979, -2.109 35.817, 22.016 35.496, 34.101 27.761, 52.822 38.616, 43.066 66.930, 40.429 81.201))"^^gsp:wktLiteral ;
-		];
+	# This property refers to a geographic region that is covered by the Dataset.
+	dct:spatial [ a dct:Location ;
+		locn:geometry "POLYGON((40.429 81.201, -72.773 79.687, -75.234 76.100, -40.429 43.068, -18.632 18.979, -2.109 35.817, 22.016 35.496, 34.101 27.761, 52.822 38.616, 43.066 66.930, 40.429 81.201))"^^gsp:wktLiteral ;
+	];
 
 
-        # This property refers to a temporal period that the Dataset covers.
-        dct:temporal [ a dct:PeriodOfTime ;
-                schema:startDate "1988-01-01T00:00:00Z"^^xsd:dateTime ;
-                #schema:endDate "YYYY-MM-DDThh:mm:ssZ"^^xsd:dateTime ;
-        ] ;
+	# This property refers to a temporal period that the Dataset covers.
+	dct:temporal [ a dct:PeriodOfTime ;
+			schema:startDate "1988-01-01T00:00:00Z"^^xsd:dateTime ;
+			#schema:endDate "YYYY-MM-DDThh:mm:ssZ"^^xsd:dateTime ;
+	] ;
 
-        # This property refers to a related Dataset of which the described Dataset is a version, edition, or adaptation.
-        # dct:hasVersion <https://www.epos-eu.org/epos-dcat-ap/Seismology/Dataset/otherDataset> ;
+	# This property refers to a related Dataset of which the described Dataset is a version, edition, or adaptation.
+	# dct:hasVersion <https://www.epos-eu.org/epos-dcat-ap/Seismology/Dataset/otherDataset> ;
 
-        # This property refers to a related Dataset of which the described Dataset is a version, edition, or adaptation.
-        # dct:isVersionOf <https://www.epos-eu.org/epos-dcat-ap/Seismology/Dataset/otherDataset> ;
+	# This property refers to a related Dataset of which the described Dataset is a version, edition, or adaptation.
+	# dct:isVersionOf <https://www.epos-eu.org/epos-dcat-ap/Seismology/Dataset/otherDataset> ;
 
-        # This property refers to a related Dataset in which the described Dataset is physically or logically included.
-        # dct:isPartOf <https://www.epos-eu.org/epos-dcat-ap/Seismology/Dataset/otherDataset> ;
+	# This property refers to a related Dataset in which the described Dataset is physically or logically included.
+	# dct:isPartOf <https://www.epos-eu.org/epos-dcat-ap/Seismology/Dataset/otherDataset> ;
 
-        # This property refers to a related Dataset that is part of the described Dataset.
-        # dct:hasPart <https://www.epos-eu.org/epos-dcat-ap/Seismology/Dataset/otherDataset> ;
+	# This property refers to a related Dataset that is part of the described Dataset.
+	# dct:hasPart <https://www.epos-eu.org/epos-dcat-ap/Seismology/Dataset/otherDataset> ;
 
 .
 
@@ -2331,12 +2360,12 @@
         dcat:theme  <epos:GNSSProductsPortal> ;
 
         dcat:keyword "GNSS position timeseries";
-		# Mathilde
-        dcat:contactPoint <ResearcherID:A-5326-2010/scientificContact> ;
+		# Anne Socquet
+        dcat:contactPoint <https://orcid.org/0000-0002-9208-7136/contactPoint> ;
 
         # This property refers to an Organisation responsible for making the Dataset available.
-		# product portal UBI
-		dct:publisher <PIC:996437254> ;
+		# CNRS-UGA
+		dct:publisher <<PIC:996437258> ;
 
         # This property links the Dataset to an available Distribution.
         dcat:distribution <GlassFramework/webresources/products/timeseries/DD/Distribution/001> ;
@@ -2430,12 +2459,12 @@
         dcat:theme  <epos:GNSSProductsPortal> ;
 
         dcat:keyword "GNSS position timeseries";
-		# Ambrus Kenyeres
-        dcat:contactPoint <https://orcid.org/0000-0003-2714-6555/scientificContact> ;
+		# Nicola d'Agostino
+        dcat:contactPoint <https://orcid.org/0000-0002-0444-6240/contactPoint> ;
 
         # This property refers to an Organisation responsible for making the Dataset available.
-		# BFKH
-		dct:publisher <PIC:996437255> ;
+		# INGV
+		dct:publisher <PIC:996437256> ;
 
         # This property links the Dataset to an available Distribution.
         dcat:distribution <GlassFramework/webresources/products/timeseries/combined/Distribution/001> ;
@@ -2529,12 +2558,12 @@
         dcat:theme  <epos:GNSSProductsPortal> ;
 
         dcat:keyword "GNSS stations velocities PPP";
-		# Mathilde
-        dcat:contactPoint <ResearcherID:A-5326-2010/scientificContact> ;
+		# Nicola d'Agostino
+        dcat:contactPoint <https://orcid.org/0000-0002-0444-6240/contactPoint> ;
 
         # This property refers to an Organisation responsible for making the Dataset available.
-		# product portal UBI
-		dct:publisher <PIC:996437254> ;
+		# INGV
+		dct:publisher <PIC:996437256> ;
 
         # This property links the Dataset to an available Distribution.
         dcat:distribution <GlassFramework/webresources/products/velocities/PPP/Distribution/001> ;
@@ -2628,12 +2657,12 @@
         dcat:theme  <epos:GNSSProductsPortal> ;
 
         dcat:keyword "GNSS stations velocities DD";
-		# Mathilde
-        dcat:contactPoint <ResearcherID:A-5326-2010/scientificContact> ;
+		# Anne Socquet
+        dcat:contactPoint <https://orcid.org/0000-0002-9208-7136/contactPoint> ;
 
         # This property refers to an Organisation responsible for making the Dataset available.
-		# product portal UBI
-		dct:publisher <PIC:996437254> ;
+		# UGA-CNRS
+		dct:publisher <PIC:996437258> ;
 
         # This property links the Dataset to an available Distribution.
         dcat:distribution <GlassFramework/webresources/products/velocities/DD/Distribution/001> ;
@@ -2727,12 +2756,12 @@
         dcat:theme  <epos:GNSSProductsPortal> ;
 
         dcat:keyword "GNSS stations velocities combined";
-		# Mathilde
-        dcat:contactPoint <ResearcherID:A-5326-2010/scientificContact> ;
+		# Ambrus Kenyeres
+        dcat:contactPoint <https://orcid.org/0000-0003-2714-6555/contactPoint> ;
 
         # This property refers to an Organisation responsible for making the Dataset available.
-		# product portal UBI
-		dct:publisher <PIC:996437254> ;
+		# BFKH
+		dct:publisher <PIC:996437255> ;
 
         # This property links the Dataset to an available Distribution.
         dcat:distribution <GlassFramework/webresources/products/velocities/combined/Distribution/001> ;
